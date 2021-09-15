@@ -1,0 +1,27 @@
+environment > configuração para aplicativo para rodar o aplicativo
+theme variable.css > inserção de variáveis
+app.component.ts > encapsulação dos componentes
+
+ng build >> código inteiro
+ng build prod >> minimiza o código (simplifica)
+
+app-root > aplicativo que é renderizado no index.html
+
+app.component.html > importante para inserir animações
+
+Página possui conjunto de componentes
+
+pagina > ionic
+componente > angular
+
+app.component.spec.ts > arquivo de teste
+
+Componentes que indicam qual html faz parte da classe
+
+Para componente é recomendado criar um módulo
+(Agrupamento de código para evitar repetição (agrupar css, html, etc))
+
+
+app.module > inicialização de apenas módulos necessários
+app-routing.module > carregamento de outros módulos pela rota
+
